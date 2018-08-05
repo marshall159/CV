@@ -1,4 +1,4 @@
-## Your Name
+## Aneel Marshall
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
@@ -39,6 +39,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Subject, any specialisms
 - Grade
 - Other cool stuff
+
+#### Law LLB - 1st class Honours - Open University - 2013
+
+#### Chemistry BSc - 1st class Honours - London Metropolitan University	2009
+
+- School of Human Sciences Prize for Molecular and Pharmaceutical Science
+- University Recognition Award for Academic Excellence: Best First Class Honours Award – Top 50 student from 10,000 graduates
 
 #### Any other qualifications
 
