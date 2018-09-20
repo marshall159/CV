@@ -56,7 +56,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Open University - 2013
 
 ### Chemistry BSc - 1st class Honours 
-- London Metropolitan University	2009
+- London Metropolitan University - 2009
 
 - School of Human Sciences Prize for Molecular and Pharmaceutical Science
 - University Recognition Award for Academic Excellence: Best First Class Honours Award – Top 50 student from 10,000 graduates
