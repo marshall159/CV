@@ -32,7 +32,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+### Makers Academy (start_date to end_date)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -43,7 +43,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Data Science MSc - to be completed
+### Data Science MSc - to be completed
 - Birkbeck University of London - 2020
 
 - Python
@@ -52,10 +52,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Programming with data
 - Computer systems
 
-#### Law LLB - 1st class Honours 
+### Law LLB - 1st class Honours 
 - Open University - 2013
 
-#### Chemistry BSc - 1st class Honours 
+### Chemistry BSc - 1st class Honours 
 - London Metropolitan University	2009
 
 - School of Human Sciences Prize for Molecular and Pharmaceutical Science
