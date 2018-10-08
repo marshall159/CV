@@ -1,12 +1,14 @@
 # Aneel Marshall
 
+ [Projects](#projects) | [Skills](#skills) |  [Education](#education) | [Work Experience](#experience) 
+
 I am a software developer with a passion for solving problems, continuous learning and building things.
 
 My academic background in Law and Chemistry has helped me develop strong analytical and problem-solving skills.
 
 My range of experience in several domains has given me an insight and desire to apply my software engineering skills to meet business needs
 
-## Projects
+## <a name="projects">Projects</a>
 
 | Title | Description | Tech Stack | Source Code |
 |:--- |:--- | ---:| ---:|
@@ -14,7 +16,7 @@ My range of experience in several domains has given me an insight and desire to 
 | [Notes App](https://github.com/marshall159/notesApp)  | Front-end notes app written in vanilla JavaScript | JavaScript, HTML, CSS | [GitHub](https://github.com/marshall159/notesApp)
 
 
-## Skills
+## <a name="skills">Skills</a>
 
 #### Python
 - Object Oriented Programming in Python 
@@ -23,7 +25,7 @@ My range of experience in several domains has given me an insight and desire to 
 #### R
 - Statistical Learning with R
 
-## Education
+## <a name="education">Education</a>
 
 ### Makers Academy (August to October 2018)
 
@@ -56,7 +58,7 @@ My range of experience in several domains has given me an insight and desire to 
     - School of Human Sciences Prize for Molecular and Pharmaceutical Science
     - University Recognition Award for Academic Excellence: Best First Class Honours Award – Top 50 student from 10,000 graduates
 
-## Work Experience
+## <a name="experience">Work Experience</a>
 **Berlitz** - Madrid - (January 2015 to June 2016)   
 *English tutor* 
 
