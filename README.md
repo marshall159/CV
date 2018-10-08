@@ -1,37 +1,20 @@
 # Aneel Marshall
 
-MSc Data Science student and experienced Operations Manager keen to apply academic knowledge to a Software Development role
+I am a software developer with a passion for solving problems, continuous learning and building things.
 
-I am a proactive and inquisitive individual with a range of experience in several domains that has helped me to develop exceptional problem-solving skills
+My academic background in Law and Chemistry has helped me develop strong analytical and problem-solving skills.
+
+My range of experience in several domains has given me an insight and desire to apply my software engineering skills to meet business needs
 
 ## Projects
 
-| Title | Description | Web Stack | Source Code |
+| Title | Description | Tech Stack | Source Code |
 |:--- |:--- | ---:| ---:|
-| [Portfolio](https://daniellebooysen.com)| The 2nd project in the [freeCodeCamp](https://www.freecodecamp.org/) curriculum, which I designed and developed after 2 months of learning to program from scratch | HTML, CSS, Bootstrap | [GitHub](https://github.com/dani-boo/random-quote-machine)
-| [Random Quote Machine]( http://daniellebooysen.com/random-quote-machine/)  | fCC fun. This project took me 2 hours to design and 2 days to build. I chose quotes from The Big Lebowski film | HTML, CSS, JavaScript | [GitHub](https://github.com/dani-boo/dani-boo.github.io)
-| [Portfolio](https://daniellebooysen.com)| The 2nd project in the [freeCodeCamp](https://www.freecodecamp.org/) curriculum, which I designed and developed after 2 months of learning to program from scratch | HTML, CSS, Bootstrap | [GitHub](https://github.com/dani-boo/random-quote-machine)
-| [Random Quote Machine]( http://daniellebooysen.com/random-quote-machine/)  | fCC fun. This project took me 2 hours to design and 2 days to build. I chose quotes from The Big Lebowski film | HTML, CSS, JavaScript | [GitHub](https://github.com/dani-boo/dani-boo.github.io)
+| [Travelling Salesman](https://github.com/marshall159/travelling-Salesman)| A Test-Driven-Development approach to solving the classic Travelling Salesman problem. A 'hill-climbing' approach was taken to progressively improve this NP-hard problem | Python, PyTest | [GitHub](https://github.com/marshall159/travelling-Salesman)
+| [Notes App](https://github.com/marshall159/notesApp)  | Front-end notes app written in vanilla JavaScript | JavaScript, HTML, CSS | [GitHub](https://github.com/marshall159/notesApp)
 
 
 ## Skills
-
-#### This Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 #### Python
 - Object Oriented Programming in Python 
@@ -42,37 +25,27 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-### Makers Academy (start_date to end_date)
-
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
-###################
+### Makers Academy (August to October 2018)
 
 - A neverending curiousity for coding and new technologies
-- Always aiming to sharpen my toolset & craft well-written, readable code
-- Learning, honing and maintaining best practices for coding (e.g. TDD, XP Values, Agile approach)
+- Always aiming to sharpen my toolset and craft well-written, readable code
+- Learning, honing and maintaining best practices for coding: TDD, XP Values and Agile
     
-    - Languages: Ruby, JavaScript, Python, R
-    - Web Frameworks: Sinatra, Ruby on Rails, node
+    - Languages: Ruby, JavaScript
+    - Frameworks/libraries: React, Node, Sinatra, Ruby on Rails
     - Databases: PostgreSQL, MongoDB
-    - Testing Suites: RSpec, Capybara, Selenium-Webdriver, Jasmine, Mocha, Chai, Pytest
-    - CI/CD: Travis CI, CodeClimate, Heroku, AWS
+    - Testing: RSpec, Capybara, Selenium, Jasmine, Jest
+    - CI/CD: Travis CI, Heroku, AWS
+
 
 ### Data Science MSc - to be completed
-- Birkbeck University of London - 2020
+- Birkbeck University of London
 
-- Python
-- Data structures and algortihms
-- Statistical Learning with R
-- Programming with data
-- Computer systems
+    - Python
+    - Data Structures and Algortihms
+    - Statistical Learning with R
+    - Programming with Data
+    - Computer Systems
 
 ### Law LLB - 1st class Honours 
 - Open University - 2013
@@ -80,20 +53,21 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ### Chemistry BSc - 1st class Honours 
 - London Metropolitan University - 2009
 
-- School of Human Sciences Prize for Molecular and Pharmaceutical Science
-- University Recognition Award for Academic Excellence: Best First Class Honours Award – Top 50 student from 10,000 graduates
+    - School of Human Sciences Prize for Molecular and Pharmaceutical Science
+    - University Recognition Award for Academic Excellence: Best First Class Honours Award – Top 50 student from 10,000 graduates
 
-#### Any other qualifications
-
-## Experience
-
+## Work Experience
 **Berlitz** - Madrid - (January 2015 to June 2016)   
 *English tutor* 
+
 **Castleward** - Prague - (January 2013 to October 2014)   
 *Operations Manager* 
+
 **Arriello** - Prague - (August 2012 to December 2012)   
 *Regulatory Affairs Assistant* 
-**Citizens Advice Bureau** - London - (November 2011 to June 2012)   
+
+**Citizens Advice Bureau** - London - (November 2011 to June 2012)  
 *Gateway Assessor*
+
 **Sweetman, Burke and Sinker** - London - (August 2011 to November 2011)   
 *Paralegal*  
