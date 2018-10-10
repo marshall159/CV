@@ -27,7 +27,8 @@ My range of experience in several domains has given me an insight and desire to 
 
 ## <a name="education">Education</a>
 
-### Makers Academy (August to October 2018)
+### Makers Academy 
+- August - October 2018
 
 - A neverending curiousity for coding and new technologies
 - Always aiming to sharpen my toolset and craft well-written, readable code
