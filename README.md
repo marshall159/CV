@@ -22,6 +22,10 @@ My range of experience in several domains has given me an insight and desire to 
 - Object Oriented Programming in Python 
 - Test Driven Development using PyTest
 
+#### Machine Learning
+- Deep Learning with PyTorch
+- Awarded a scholarship from Facebook to participate in Udacity's Deep Learning course to build Neural Networks using PyTorch
+
 #### R
 - Statistical Learning with R
 
@@ -38,7 +42,7 @@ My range of experience in several domains has given me an insight and desire to 
     - Frameworks/libraries: React, Node, Sinatra, Ruby on Rails
     - Databases: PostgreSQL, MongoDB
     - Testing: RSpec, Capybara, Selenium, Jasmine, Jest
-    - CI/CD: Travis CI, Heroku, AWS
+    - CI/CD: Travis CI, Heroku
 
 
 ### Data Science MSc - to be completed
