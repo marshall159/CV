@@ -24,7 +24,7 @@ My range of experience in several domains has given me an insight and desire to 
 
 #### Machine Learning
 - Deep Learning with PyTorch
-- Awarded a scholarship from Facebook to participate in Udacity's Deep Learning course to build Neural Networks using PyTorch
+- Awarded a scholarship from Facebook to participate in [Udacity's](https://blog.udacity.com/2018/10/introducing-the-pytorch-scholarship-challenge-from-facebook.html) Deep Learning course to build Neural Networks using PyTorch
 
 #### R
 - Statistical Learning with R
