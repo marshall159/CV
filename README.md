@@ -14,6 +14,7 @@ My range of experience in several domains has given me an insight and desire to 
 |:--- |:--- | ---:| ---:|
 | [Travelling Salesman](https://github.com/marshall159/travelling-Salesman)| A Test-Driven-Development approach to solving the classic Travelling Salesman problem. A 'hill-climbing' approach was taken to progressively improve this NP-hard problem | Python, PyTest | [GitHub](https://github.com/marshall159/travelling-Salesman)
 | [Notes App](https://github.com/marshall159/notesApp)  | Front-end notes app written in vanilla JavaScript | JavaScript, HTML, CSS | [GitHub](https://github.com/marshall159/notesApp)
+| [Googley Eyes](https://chrome.google.com/webstore/detail/googley-eyes/pmmhkfmjlmfafdbmncichafmcchedefb)  | Group project: Chrome extension that keeps track of how you spend time on the web and presents the stats in a useful and intuitive way. Available in the [Chrome Store](https://chrome.google.com/webstore/detail/googley-eyes/pmmhkfmjlmfafdbmncichafmcchedefb) | JavaScript, Jasmine, Selenium | [GitHub](https://github.com/LazySamir/googley-eyes)
 
 
 ## <a name="skills">Skills</a>
